@@ -1,0 +1,31 @@
+    1  cd C:\Users\t00194333\Desktop\mp21
+    2  cd C:\Users\t00194333\Desktop\mp21
+    3  bashrc
+    4  cd mp21
+    5  git status
+    6  git commit -m "initial commit"
+    7  cd C:\cygwin64\home\t00194333\mp21
+    8  git init
+    9  cd mp21
+   10  git initi
+   11  git init
+   12  ls -a
+   13  touch README.md
+   14  git add .
+   15  git status
+   16  git commit -m "initial commit"
+   17  git status
+   18  git remote add origin https://github.com/t00194333/mp21.git
+   19  git push -u origin master
+   20  history
+   21  history > mp21_history
+   22  history > mp21_his
+   23  history > mp21_hist
+   24  cd mp21_hist
+   25  cd mp21_history
+   26  ls
+   27  rm mp21_his
+   28  ls
+   29  rm mp21_history
+   30  rm mp21_hist
+   31  history > mp21_hist
